@@ -57,7 +57,7 @@ Ce projet vise à prédire le risque de diabète à l'aide de techniques de mach
 ---
 
 ## Author / Auteur
-Ilyass Ayh
+Ilyas sayh
 
 ---
 
